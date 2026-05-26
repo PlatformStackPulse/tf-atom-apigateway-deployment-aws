@@ -65,6 +65,5 @@ Terraform atom: AWS API Gateway Deployment - triggers API deployment.
 | Name | Description |
 |------|-------------|
 | <a name="output_enabled"></a> [enabled](#output\_enabled) | Whether the module is enabled |
-| <a name="output_execution_arn"></a> [execution\_arn](#output\_execution\_arn) | Execution ARN of the deployment |
 | <a name="output_id"></a> [id](#output\_id) | ID of the deployment |
 <!-- END_TF_DOCS -->
